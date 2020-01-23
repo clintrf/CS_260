@@ -1,0 +1,28 @@
+body {
+  color: #414141;
+  background-color: #EEEEEE;    /* Light gray */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  list-style-type: lower-roman;
+}
+
+p,h1,h2,h3,ul,ol,li {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.6em;
+}
