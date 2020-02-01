@@ -25,7 +25,7 @@ body {
 .footer {
 	display:grid;
 	grid-template-columns: auto auto auto;
-        grid-gap: 5px;
+        grid-gap: 1px;
 	font-size: 12px;
   position: fixed;
   left: 0;
